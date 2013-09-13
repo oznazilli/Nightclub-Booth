@@ -16,7 +16,7 @@
 					
 				</section> <!-- main -->
 				<section class="main col col-lg-4">
-					
+					<?php include "_/components/php/aside-register.php"; ?>					
 				</section> <!-- sidebar -->	
 			</div> <!-- content -->
 			<?php include "_/components/php/footer.php"; ?>

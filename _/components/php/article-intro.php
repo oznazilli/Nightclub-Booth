@@ -1,5 +1,18 @@
 <article class="intro">
-<h2>Headline</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, maiores, autem, natus nemo corporis voluptate iure laboriosam explicabo et magnam sit adipisci eaque quas sunt minima nam harum exercitationem blanditiis!</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, harum, itaque, dolorem, aspernatur alias enim ex eos obcaecati consectetur explicabo aliquam nulla suscipit eum laboriosam incidunt inventore numquam animi minus.</p>
+<h2>Maximize Your Nightclub's Potential</h2>
+<p>Nightclub Booth is the first ever, socially intelligent online reservation platform that offers dynamic pricing for nightclubs.</p>
+<p>Nightclub Booth offers a dynamic and socially-driven online reservation platform to be used by nightclubs that will allow consumers to reserve and pay for VIP service online.</p>
+ 
+<p>We give nightclubs the power to utilize:
+	<ul>
+		<img src="img/ss1.jpg" alt=""><li>A 3D online booking environment</li>
+  		<li>A proprietary bidding system</li>
+		<li>Social payments</li>
+		<li>Intelligent analytics and</li> 
+		<li>Innovative social media integration to promote business for the venue.</li>
+	</ul>
+</p>
+ 
+<p>Our vision is to make the nightclubs more connected, insightful and viral. Our goal is to reduce your operational costs and increase your revenues.</p>
+ 
 </article> <!-- intro -->

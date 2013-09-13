@@ -15,25 +15,35 @@
 @gray-light:             lighten(#000, 60%);   // #999
 @gray-lighter:           lighten(#000, 93.5%); // #eee
 
+// My Colors
+// -----------------------------------
+@red:			#991F27;
+@darkred:		#73181D;
+@gold:			#D3A55A;
+@lightblack:	#363030;
+
+
+
 // Brand colors
 // -------------------------
 
-@brand-primary:         #428bca;
+// @brand-primary:         #428bca;
+@brand-primary:         @gold;
 @brand-success:         #5cb85c;
 @brand-warning:         #f0ad4e;
 @brand-danger:          #d9534f;
-@brand-info:            #5bc0de;
+@brand-info:            darken(#C58D3F, 15%);
 
 // Scaffolding
 // -------------------------
 
 @body-bg:               #fff;
-@text-color:            @gray-dark;
+@text-color:            darken(white, 15%);
 
 // Links
 // -------------------------
 
-@link-color:            @brand-primary;
+@link-color:            @gold;
 @link-hover-color:      darken(@link-color, 15%);
 
 // Typography
@@ -44,7 +54,10 @@
 @font-family-monospace:   Monaco, Menlo, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;
 
-@font-size-base:          14px;
+@headlineFontFamily:	  "Bree Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@copyFontFamily:		  Merriweather, Georgia, "Times New Roman", Times, serif;
+
+@font-size-base:          16px;
 @font-size-large:         ceil(@font-size-base * 1.25); // ~18px
 @font-size-small:         ceil(@font-size-base * 0.85); // ~12px
 

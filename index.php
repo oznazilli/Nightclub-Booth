@@ -16,10 +16,11 @@
 				<section class="main col col-lg-8">
 					<?php include "_/components/php/article-intro.php"; ?>
 					<?php include "_/components/php/snippet-featuregrid.php"; ?>
-					<a href="features.php" class="btn btn-primary">See the full feature list</a>
+					<br>
+					<p><a href="features.php" class="btn btn-info">See the full feature list</a></p>
 				</section> <!-- main -->
 				<section class="main col col-lg-4">
-					
+					<?php include "_/components/php/aside-register.php"; ?>
 				</section> <!-- sidebar -->	
 			</div> <!-- content -->
 			<?php include "_/components/php/footer.php"; ?>

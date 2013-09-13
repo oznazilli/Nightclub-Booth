@@ -1,0 +1,55 @@
+@red:			#991F27;
+@darkred:		#73181D;
+@gold:			#D3A55A;
+@lightblack:	#363030;
+@gray-dark:              lighten(#000, 20%);   // #333
+
+
+@headlineFontFamily:	  "Bree Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@copyFontFamily:		  Merriweather, Georgia, "Times New Roman", Times, serif;
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: @headlineFontFamily;
+}
+
+input {
+	text-align: center;
+}
+
+#myCarousel {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.intro {
+	ul {list-style: none;}
+}
+
+body {
+	background: url(/img/bg3.png);
+}
+
+.right-justify{
+	text-align: right;
+}
+
+.breadcrumb {
+	text-align: right;
+	background: none;
+}
+
+p {
+	font-family: @copyFontFamily;
+	font-size: 1.1em;
+	line-height: 1.4em;
+}
+
+.container {
+	@media(max-width: 767px) {
+		font-size: 1em;
+	}
+}
+
+.text-center {
+	text-align: center;
+}
