@@ -6,6 +6,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
 		<link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
 		<link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+		<link rel="shortcut icon" href="/favicon.ico" />
 	</head>
 	<body id="home">
 
@@ -28,5 +29,15 @@
 	
 		<script src="_/js/bootstrap.js"></script>
 		<script src="_/js/myscript.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $('#myCarousel').carousel({
+        interval: 5000
+    });
+
+    $('#myCarousel').carousel('cycle');
+});
+</script> 
 	</body>
 </html>

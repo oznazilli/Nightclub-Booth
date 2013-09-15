@@ -20,7 +20,5 @@ $(function() {
 
 }); //jQuery is loaded
 
-$(document).ready(function() {      
-   $('.carousel').carousel('pause');
-});//Prevent carousel autoplay
+
 

@@ -2,7 +2,12 @@
 @darkred:		#73181D;
 @gold:			#D3A55A;
 @lightblack:	#363030;
+@gray-darker:            lighten(#000, 13.5%); // #222
 @gray-dark:              lighten(#000, 20%);   // #333
+@gray:                   lighten(#000, 33.5%); // #555
+@gray-light:             lighten(#000, 60%);   // #999
+@gray-lighter:           lighten(#000, 93.5%); // #eee
+@text-color:            darken(white, 15%);
 
 
 @headlineFontFamily:	  "Bree Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -12,6 +17,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: @headlineFontFamily;
 }
 
+legend h3 {
+	color: @gray-light;
+}
+
 input {
 	text-align: center;
 }
@@ -19,6 +28,11 @@ input {
 #myCarousel {
 	width: 75%;
 	margin: 0 auto;
+}
+
+.navbar-nav>li>.dropdown-menu {
+	background-color: @gray-dark;
+	a {color: @gray-light;}
 }
 
 .intro {
@@ -86,3 +100,37 @@ p {
 	}
 }
 
+table tbody tr:hover {
+	color: @gray-dark;
+}
+
+table th:not(:first-child)  {
+	color: @gold;
+}
+
+table tfoot:not(:first-child):hover  {
+	background: none;
+}
+
+table td:not(:first-child) {
+	text-align: center;
+}
+
+table th:not(:first-child) {
+	text-align: center;
+	background: @darkred;
+	color: @text-color;
+}
+
+table tbody tr td:first-child {
+	color: @gold;
+}
+
+table tbody tr td:first-child:hover{
+	color: darken(@gray-darker, 15%);
+}
+
+table td {
+	padding-top: 10px!important;
+	padding-bottom: 10px!important;
+}

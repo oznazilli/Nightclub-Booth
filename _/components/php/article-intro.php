@@ -5,7 +5,7 @@
  
 <p>We give nightclubs the power to utilize:
 	<ul>
-		<img src="img/ss1.jpg" alt=""><li>A 3D online booking environment</li>
+		<li>A 3D online booking environment</li>
   		<li>A proprietary bidding system</li>
 		<li>Social payments</li>
 		<li>Intelligent analytics and</li> 

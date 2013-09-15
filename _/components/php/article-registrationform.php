@@ -3,7 +3,7 @@
 
 	<form action="#" class="registration form-horizontal">
 		<fieldset>
-			<legend>A Bit About You</legend>
+			<legend><h3>A Bit About You</h3></legend>
 
 				<section class="row form-group">
 					<label class="col col-lg-4 control-label" for="myname">Name</label>

@@ -1,6 +1,6 @@
 <header class="clearfix">
 	<section id="branding">
-		<a href="index.php"><img src="img/logo.png" alt="Nightclub Booth Logo"></a>
+		<a href="index.php"><img src="img/logo2.png" alt="Nightclub Booth Logo"></a>
 	</section><!-- branding -->
 
 	<section class="navbar navbar-inverse navbar-default">
@@ -15,7 +15,6 @@
 					<li><a tabindex="-1" href="backers.php">Backers</a></li>
 				</ul> <!-- dropdown menu -->
 			</li>
-			<li><a href="customers.php">Customers</a></li>
 			<li><a href="contactus.php">Contact Us</a></li>
 		</ul><!-- nav -->
 		<ul class="nav navbar-nav navbar-right">

@@ -2,14 +2,14 @@
 	<div id="featureindex" class="row">
 		<section class="scrollspy clearfix col col-lg-3 visible-lg" >
 			<ul style="max-width:155px" class="nav nav-list affix">
-				<li><a href="#virtual-club"><span class="glyphicon glyphicon-chevron-right"></span> Virtual Club</a></li>
+				<li class="active"><a href="#virtual-club"><span class="glyphicon glyphicon-chevron-right"></span> Virtual Club</a></li>
 				<li><a href="#bid4booths"><span class="glyphicon glyphicon-chevron-right"></span> Bid4Booths</a></li>
 				<li><a href="#distributed-social-payments"><span class="glyphicon glyphicon-chevron-right"></span> Distributed Social Payments</a></li>
 				<li><a href="#guestlist-manager"><span class="glyphicon glyphicon-chevron-right"></span> Guestlist Manager</a></li>
 				<li><a href="#future"><span class="glyphicon glyphicon-chevron-right"></span> The Future</a></li>
 			</ul> <!-- nav-list -->
 		</section> <!-- scrollspy -->
-		<section class="features col col-lg-9">
+		<section class="col col-lg-9">
 			<h1>Features</h1>
 			<h2 id="virtual-club"><img src="img/virtual-club.png" height="113" width="164" alt="Virtual Club"> Virtual Club</h2>
 			<p>Our Virtual Club reduces operational costs via a centralized online reservation platform, this eliminates the chances of double bookings and lost reservations.</p>
