@@ -25,8 +25,8 @@
         </tr>
         <tr>
           <td>Distributed Social Payments</td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
+          <td><span class="glyphicon glyphicon-remove"></span></td>
+          <td><span class="glyphicon glyphicon-remove"></span></td>
           <td><span class="glyphicon glyphicon-ok"></span></td>
         </tr>
         <tr>
@@ -37,9 +37,9 @@
         </tr>
         <tr>
           <td>Revenue from Bid4Booths</td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
+          <td>40%</td>
+          <td>50%</td>
+          <td>50%</td>
         </tr>
         <tr>
           <td>Email Support</td>
@@ -47,25 +47,6 @@
           <td>24/7</td>
           <td>24/7</td>
         </tr>
-        <tr>
-          <td>Social Media Consultation for your Nightclub</td>
-          <td><span class="glyphicon glyphicon-remove"></span></td>
-          <td><span class="glyphicon glyphicon-remove"></span></td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
-        </tr>
-        <tr>
-          <td>UX Consultation for your Website</td>
-          <td><span class="glyphicon glyphicon-remove"></span></td>
-          <td><span class="glyphicon glyphicon-remove"></span></td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
-        </tr>
-        <tr>
-          <td>Conversion Optimization for your Online Presence</td>
-          <td><span class="glyphicon glyphicon-remove"></span></td>
-          <td><span class="glyphicon glyphicon-remove"></span></td>
-          <td><span class="glyphicon glyphicon-ok"></span></td>
-        </tr>
-        <tr>
           <td> </td>
           <td> </td>
           <td> </td>
