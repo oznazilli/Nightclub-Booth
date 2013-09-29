@@ -24,7 +24,7 @@
 			
 			
 			<h2 id="guestlist-manager"><img src="img/guestlist-manager.png" height="113" width="81" alt="Guestlist Manager"> Guestlist Manager</h2>
-			<p>???</p>
+			<p>All your reservation data in one automatically updated format + A secure template that avoids the name dropping scenario at the door. </p>
 
 			<h1 id="future">What Does the Future Hold for Nightlub Booth</h1>
 
